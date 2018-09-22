@@ -1,0 +1,5 @@
+-   id: flutter-format
+    name: Format Flutter Code
+    entry: run
+    language: script
+    files: \.dart$
