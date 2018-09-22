@@ -1,6 +1,6 @@
 # Flutter Format `pre-commit`
 
-[`https://pre-commit.com`](https://pre-commit.com) hook for formatting Flutter files.
+[`pre-commit`](https://pre-commit.com) hook for formatting Flutter files.
 
 Add the following in your `.pre-commit-config.yaml`:
 ```yaml
