@@ -20,3 +20,7 @@ You can also only include/exclude some files (defaults to only `.dart`, is a pat
       files: lib/* # Only format source files
       exclude: lib/src/avatar.dart # Exclude the avatar widget
 ```
+
+## Dart
+
+Also see [Dart Format `pre-commit`](https://github.com/Cretezy/dart-format-pre-commit) for formatting only Dart code.
