@@ -1,3 +1,9 @@
+# Note: `flutter format` is now `dart format`
+
+Please use [dart-format-pre-commit](https://github.com/Cretezy/). This package will give a Flutter warning to migrate to `dart format`, which this other package is.
+
+---
+
 # Flutter Format `pre-commit`
 
 [`pre-commit`](https://pre-commit.com) hook for formatting Flutter files.
